@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'http://riseabove.ru/');
 define('DIR_APPLICATION', '/var/www/domains/riseabove.ru/admin/');
 define('DIR_SYSTEM', '/var/www/domains/riseabove.ru/system/');
 define('DIR_IMAGE', '/var/www/domains/riseabove.ru/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', '/var/www/storage/');
 define('DIR_CATALOG', '/var/www/domains/riseabove.ru/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
